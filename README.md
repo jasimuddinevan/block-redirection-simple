@@ -1,6 +1,6 @@
 # Block Redirection Simple
 
-A lightweight Chrome extension that helps you block unwanted URL redirections with a simple toggle switch.
+A lightweight extension that helps you block unwanted URL redirections with a simple toggle switch.
 
 ## Features
 
