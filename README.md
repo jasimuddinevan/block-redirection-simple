@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Developed by Jasim Uddin
+Developed by [Jasim Uddin](https://www.facebook.com/jasimuddinevan)
